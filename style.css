@@ -17,18 +17,17 @@ body {
 .section-text {
     max-width: 50%;
     padding: 0 20px;
-    
 }
 .section-text h2 {
     font-size: 45px;
     margin-bottom: 0;
     margin-top: 0; 
-    margin-left: 250px
+    margin-left: 250px;
 }
 .section-text div {
     font-size: 18px;
     margin-bottom: 10px;
-    margin-left: 250px
+    margin-left: 250px;
 }
 .section-image {
     max-width: 40%; 
@@ -39,9 +38,9 @@ body {
 .section-image img {
     max-width: 100%;
     height: auto;
+    display: block;
 }
 .read-more-btn-container {
-
     margin-left: 250px; 
 }
 .read-more-btn {
